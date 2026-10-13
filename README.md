@@ -9,7 +9,7 @@
 [![Interface](https://img.shields.io/badge/-Interface%20--%20PassThru%20DLL-C2C2C2?style=for-the-badge)](https://serosys-tech.com/j2534/)
 [![Hardware](https://img.shields.io/badge/-Hardware%20--%20SeRoSys%20CAN-C2C2C2?style=for-the-badge)](https://serosys-tech.com/)
 
-[![Product Overview](https://img.shields.io/badge/-Product_Overview-007f02)](https://serosys-tech.com/j2534/) · [![Download](https://img.shields.io/badge/-Download-007f02)](https://serosys-tech.com/downloads/) · [![Hardware](https://img.shields.io/badge/-Hardware_Overview-007f02)](https://serosys-tech.com/shop) · [![Documentation](https://img.shields.io/badge/-Documentation-007f02)](https://serosys-tech.com/downloads/) · [![Contact](https://img.shields.io/badge/-Contact-007f02)](mailto:SLSS_Official@langer-sebastian.de)
+[![Product Overview](https://img.shields.io/badge/-Product_Overview-007f02)](https://serosys-tech.com/j2534/) ' [![Download](https://img.shields.io/badge/-Download-007f02)](https://serosys-tech.com/downloads/) ' [![Hardware](https://img.shields.io/badge/-Hardware_Overview-007f02)](https://serosys-tech.com/shop) ' [![Documentation](https://img.shields.io/badge/-Documentation-007f02)](https://serosys-tech.com/downloads/) ' [![Contact](https://img.shields.io/badge/-Contact-007f02)](mailto:SLSS_Official@langer-sebastian.de)
 
 <br>
 
@@ -18,7 +18,6 @@
 ## Overview
 
 **SLSS J2534 PassThru API** provides a standardized Windows interface between compatible PC-based automotive diagnostic or ECU flash-programming applications and **SeRoSys CAN interface hardware** connected via USB.
-
 Based on **SAE J2534-1/2 version 04.04**, the solution supplies a PassThru dynamic-link library (DLL) for integration with suitable OEM and third-party applications. Actual application compatibility depends on the protocols, functions and hardware features required by the application.
 
 > **One standardized interface — connecting automotive diagnostic software with SeRoSys CAN hardware.**
@@ -55,7 +54,7 @@ J2534 is commonly used in automotive diagnostics and ECU reprogramming. Support 
 
 ## Getting started
 
-1. **Download the installer:** Visit the [SeRoSys download center](https://serosys-tech.com/downloads/) and locate **SLSS J2534-1/2 v04.04 API PassThru**.
+1. **Download the installer:** Download from this repository or visit the [SeRoSys download center](https://serosys-tech.com/downloads/) and locate **SLSS J2534-1/2 v04.04 API PassThru**.
 2. **Read the manual:** Consult the **SLSS J2534 API PassThru Manual** in the same download center for prerequisites, installation and configuration details.
 3. **Connect compatible hardware:** Attach your supported SeRoSys CAN interface to the Windows PC via USB.
 4. **Install and configure:** Follow the official installer and manual instructions to register and select the PassThru interface.
