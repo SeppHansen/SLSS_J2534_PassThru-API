@@ -1,6 +1,6 @@
 <div align="center">
 
-# SLSS J2534 PassThru API
+# SLSS SeRoSys J2534 PassThru API
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-**SLSS J2534 PassThru API** provides a standardized Windows interface between compatible PC-based automotive diagnostic or ECU flash-programming applications and **SeRoSys CAN interface hardware** connected via USB.
+**SLSS SeRoSys J2534 PassThru API** provides a standardized Windows interface between compatible PC-based automotive diagnostic or ECU flash-programming applications and **SeRoSys CAN interface hardware** connected via USB.
 Based on **SAE J2534-1/2 version 04.04**, the solution supplies a Windows PassThru dynamic-link library (DLL) and a **J2534 Configuration Tool** for integration with suitable OEM and third-party applications. Supported functionality includes CAN communication, CAN FD extensions, ISO-TP transport and dual physical CAN channels on compatible hardware. Actual application compatibility depends on the protocols, functions and hardware features required by the application.
 
 > **One standardized interface — connecting automotive diagnostic software with SeRoSys CAN hardware.**
@@ -76,7 +76,7 @@ The **J2534 Configuration Tool** allows the user to select the connected device 
 5. **Enable dual-channel operation if needed:** In the Configuration Tool, enable the multi-channel option for simultaneous CAN A / CAN B use within a compatible application.
 6. **Start your application:** Select the SLSS / SeRoSys PassThru device in a compatible diagnostic or programming application, where supported. The application must itself support the required J2534 protocols and channel connections.
 
-**Release reference:** Version **1.0.4** is listed in the official download center. Check the download page for the latest available release.
+**Release reference:** Version **2.0.00** is listed in the official download center. Check the download page for the latest available release.
 
 ## Typical applications
 
@@ -105,7 +105,7 @@ ECU programming and active vehicle communication can affect vehicle functionalit
 
 | Resource | Link |
 |:--|:--|
-| Official product page | [SLSS J2534 PassThru API](https://serosys-tech.com/j2534/) |
+| Official product page | [SLSS SeRoSys J2534 PassThru API](https://serosys-tech.com/j2534/) |
 | Installer and manual | [SeRoSys Download Center](https://serosys-tech.com/downloads/) |
 | Compatible hardware catalog | [SeRoSys Hardware](https://serosys-tech.com/shop) |
 | SLSS CANAnalyser | [Product page](https://www.langer-sebastian.de/slss-cananalyser/) |
@@ -125,7 +125,7 @@ The SLSS software ecosystem is developed in cooperation with **[SeRoSys Technolo
 
 ---
 
-**SLSS J2534 PassThru API** · *Because smart solutions matter.*
+**SLSS SeRoSys J2534 PassThru API** · *Because smart solutions matter.*
 
 [Website](https://www.langer-sebastian.de/) · [Product](https://serosys-tech.com/j2534/) · [SeRoSys](https://serosys-tech.com/) · [Contact](mailto:SLSS_Official@langer-sebastian.de)
 
